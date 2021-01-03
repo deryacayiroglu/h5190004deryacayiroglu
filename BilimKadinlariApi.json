@@ -1,0 +1,122 @@
+[
+	{
+		"Adi": "Ada Lovelace",
+		"Alani": "Matematik",
+		"DogumTarihi": "10 Aralık 1815",
+		"OlumTarihi": "27 Kasım 1852",
+		"KapakFotoUrl": "https://raw.githubusercontent.com/deryacayiroglu/h5190004deryacayiroglu/main/AdaLovelaceKapak.jpg",
+		"LogoUrl": "https://raw.githubusercontent.com/deryacayiroglu/h5190004deryacayiroglu/main/AdaLovelaceLogo.jpg",
+		"Aciklama": "<p>Lovelace Kontesi,Augusta Ada Byron adıyla doğan ve günümüzde yaygın olarak <b>Ada Lovelace</b> adıyla bilinen, İngiliz matematikçi ve yazardır. Makine hakkındaki notları, bir bilgisayar tarafından işlenmek üzere yazılan ilk algoritmayı içerir. Bundan dolayı genel kanı dünyanın <b>ilk bilgisayar programcısı</b> olduğudur.</p> <p>Ada, bilime şiirsel yaklaşımını ve kendisini analizci ve metafizikçi olarak tanımladı. Daha gençken, matematiksel yetenekleri, İngiliz matematikçi Charles Babbage ile süregelen bir iş ilişkisine ve arkadaşlığa, özellikle de Babbage’ın Analitik Motor üzerine çalışmalarına  neden oldu.1842-3 yılları arasında, İtalyan ordu mühendisi Luigi Menabrea’nın motor üzerine makalesini kendi ayrıntılı notlarıyla destekleyerek çevirdi. Bu notlar birçok insanın ilk  bilgisayar programı olarak düşündüğü bir makine tarafından yapılması tasarlanan algoritmayı içerir. Lovelace’ın notları başlangıç bilgisayar tarihinde çok önemlidir </p>"
+	},
+	
+	{
+		"Adi": "Marie Curie",
+		"Alani": "Radyoaktif Bilim",
+		"DogumTarihi": "7 Kasım 1867",
+		"OlumTarihi": "4 Temmuz 1934",[{
+		"Adi": "Ada Lovelace",
+		"Alani": "Matematik",
+		"DogumTarihi": "10 Aralık 1815",
+		"OlumTarihi": "27 Kasım 1852",
+		"KapakFotoUrl": "https://raw.githubusercontent.com/deryacayiroglu/h5190004deryacayiroglu/main/AdaLovelaceKapak.jpg",
+		"LogoUrl": "https://raw.githubusercontent.com/deryacayiroglu/h5190004deryacayiroglu/main/AdaLovelaceLogo.jpg",
+		"Aciklama": "<p>Lovelace Kontesi,Augusta Ada Byron adıyla doğan ve günümüzde yaygın olarak <b>Ada Lovelace</b> adıyla bilinen, İngiliz matematikçi ve yazardır. Makine hakkındaki notları, bir bilgisayar tarafından işlenmek üzere yazılan ilk algoritmayı içerir. Bundan dolayı genel kanı dünyanın <b>ilk bilgisayar programcısı</b> olduğudur.</p> <p>Ada, bilime şiirsel yaklaşımını ve kendisini analizci ve metafizikçi olarak tanımladı. Daha gençken, matematiksel yetenekleri, İngiliz matematikçi Charles Babbage ile süregelen bir iş ilişkisine ve arkadaşlığa, özellikle de Babbage’ın Analitik Motor üzerine çalışmalarına  neden oldu.1842-3 yılları arasında, İtalyan ordu mühendisi Luigi Menabrea’nın motor üzerine makalesini kendi ayrıntılı notlarıyla destekleyerek çevirdi. Bu notlar birçok insanın ilk  bilgisayar programı olarak düşündüğü bir makine tarafından yapılması tasarlanan algoritmayı içerir. Lovelace’ın notları başlangıç bilgisayar tarihinde çok önemlidir </p>"
+	},
+
+	{
+		"Adi": "Marie Curie",
+		"Alani": "Radyoaktif Bilim",
+		"DogumTarihi": "7 Kasım 1867",
+		"OlumTarihi": "4 Temmuz 1934",
+		"KapakFotoUrl": "https://raw.githubusercontent.com/deryacayiroglu/h5190004deryacayiroglu/main/MarieCurieKapak.jpg",
+		"LogoUrl": "https://raw.githubusercontent.com/deryacayiroglu/h5190004deryacayiroglu/main/MarieCruieLogo.jpg",
+		"Aciklama": "<p>Radyoaktivite alanında öncü araştırmalar yapmış ve bu araştırmaları sonucu <i>Nobel Ödülü'ne</i> layık görülmüş <b>Leh-Fransız fizikçi ve kimyager</b>.</p> <p> <i>Uranyumla</i> yaptığı deneyler sonucu radyoaktiviteyi keşfetti. <i>Toryumun</i> radyoaktif özelliğini buldu ve <b>radyum</b> elementini ayrıştırdı. <b>1903 Nobel Fizik ödülü</b>, <b>1911 Nobel Kimya ödülü</b> sahibi ve <b>radyoloji biliminin kurucusudur</b>. Çalışmalarıyla bir çığır açan Curie, <i>Nobel Ödülü'nü alan ilk kadın</i>, bu ödülü <b>iki kere alan ilk bilim insanı olmuştur</b>.</p>"
+	},
+
+	{
+		"Adi": "Mary Anning",
+		"Alani": "Fosil Bilim",
+		"DogumTarihi": "21 Mayıs 1799",
+		"OlumTarihi": "9 Mart 1847",
+		"KapakFotoUrl": "https://raw.githubusercontent.com/deryacayiroglu/h5190004deryacayiroglu/main/MaryAnningKapak.png",
+		"LogoUrl": "https://raw.githubusercontent.com/deryacayiroglu/h5190004deryacayiroglu/main/MaryAnningLogo.jpg",
+		"Aciklama": "<p>Britanyalı fosil koleksiyoncusu, fosil taciri ve <b>paleontolojist</b>.</p> <p>1809 ve 1811 yılları arasında henüz 10-12 yaşlarındayken <i>dinozor</i> kalıntıları keşfetmiş ve bu kalıntıları bir bütün olarak gün yüzüne çıkarmıştır. Bu fosil bir T-Rex fosilidir. Bu keşfi sayesinde <b>dünyanın ilk paleontolojisti</b> unvanını kazanmıştır. Mary Anning ayrıca toprağı kazan ilk kadındır. </p>"
+	},
+
+	{
+		"Adi": "Annie Jump Cannon",
+		"Alani": "Gökbilim",
+		"DogumTarihi": "11 Aralık 1863",
+		"OlumTarihi": "13 Nisan 1941",
+		"KapakFotoUrl": "https://raw.githubusercontent.com/deryacayiroglu/h5190004deryacayiroglu/main/AnnieJumpCannonKapak.jpg",
+		"LogoUrl": "https://raw.githubusercontent.com/deryacayiroglu/h5190004deryacayiroglu/main/AnnieJumpCannonLogo.jpg",
+		"Aciklama": "<p> Amerikalı gökbilimci. Günümüzde kullanılan <i>yıldız sınıflandırmasının temelini</i> oluşturan çalışmaları gerçekleştirmiştir.</p> <p>Annie Jump Cannon en az 300 değişken yıldız keşfeden, Delaware doğumlu astronomdu. Bunlar zamanla parlaklıklarını veya büyüklüklerini değiştiren yıldızlardır. Bu keşifler, Cannon’u yıldız sınıflandırmasının gelişiminin hayati bir parçası haline getirdi. Ayrıca beş yeni yıldız ve bir çift yıldız keşfetti ve spektral tipi, parlaklığı ve dağılımı arasındaki ilişkiyi göstermek için dörtte bir milyondan fazla yıldız üzerinde analiz yaptı</p>"
+	},
+
+	{
+		"Adi": "Rosalind Franklin",
+		"Alani": "Biyofizik",
+		"DogumTarihi": "25 Temmuz 1920",
+		"OlumTarihi": "16 Nisan 1958",
+		"KapakFotoUrl": "https://raw.githubusercontent.com/deryacayiroglu/h5190004deryacayiroglu/main/RosalindFranklinKapak.jpg",
+		"LogoUrl": "https://raw.githubusercontent.com/deryacayiroglu/h5190004deryacayiroglu/main/RosalindFranklinLogo.jpg",
+		"Aciklama": "<p> DNA, RNA, virüs, kömür ve grafitin yapılarının anlaşılmasında büyük katkılarda bulunan İngiliz <b>biyofizikçi, kimyager ve kristallografçısıdır</b>. Kömür ve virüslerle ilgili eserleri hayatı boyunca takdir edilmesine rağmen, DNA yapısının keşfine yaptığı katkılar büyük oranda ölümünden sonra fark edildi.</p> <p>En çok Watson ve Crick'in DNA'nın yapısını keşfetmelerinden önce yaptığı X-ışını kırınımı çalışmalarıyla ve öne sürdüğü hipotezlerle tanınmıştır. Daha sonra ise tütün mozaik virüsü ve polio virüsler için yaptığı araştırmalarla dikkat çekmiştir. 1958'de zatürre ve takiben karsinomatozis ve yumurtalık kanserinden hayatını kaybetmiştir.</p> <p>1962 yılında Watson, Crick ve Wilkins DNA çalışmalarından dolayı Nobel Ödülü alırlarken Franklin'in adı bile anılmadı. Buna, kimi çevreler ölmüş kişilerin ödüle aday gösterilemeyeceği nedenini gösterdiler, kimileriyse Franklin'in hakkının yenildiğini söylediler. Her ne olursa olsun bugün bilim çevreleri, DNA çalışmaları üzerinde Rosalind Franklin'in önemli katkıları olduğunu ve öncü çalışmalar yaptığını kabul ediyor.</p>"
+	},
+
+	{
+		"Adi": "Grace Hopper",
+		"Alani": "Bilgisayar Bilimi",
+		"DogumTarihi": "9 Aralık 1906",
+		"OlumTarihi": "1 Ocak 1992",
+		"KapakFotoUrl": "https://raw.githubusercontent.com/deryacayiroglu/h5190004deryacayiroglu/main/GraceHopperKapak.jpg",
+		"LogoUrl": "https://raw.githubusercontent.com/deryacayiroglu/h5190004deryacayiroglu/main/GraceHopperLogo.jpg",
+		"Aciklama": "<p>Tümamiral <b>Grace Murray Hopper</b> ,Amerikalı bilgisayar bilimcisi ve ABD donanmasında rütbeli asker. Harvard Mark I bilgisayarının ilk programcılarından biri olan Hopper, bilgisayar programlama dilleri için <b>ilk derleyiciyi</b> geliştirdi.<i> İlk modern programlama dillerinden</i> biri olan <b>COBOL'un</b> da geliştiricilerindendi.Bilgisayar dilinde <i>debugging</i> diye bilinen programı hatalardan temizleme konseptinin de ilk kullanıcılarındandı.</p>"
+	}
+
+]
+		"KapakFotoUrl": "https://raw.githubusercontent.com/deryacayiroglu/h5190004deryacayiroglu/main/MarieCurieKapak.jpg",
+		"LogoUrl": "https://raw.githubusercontent.com/deryacayiroglu/h5190004deryacayiroglu/main/MarieCruieLogo.jpg",
+		"Aciklama": "<p>Radyoaktivite alanında öncü araştırmalar yapmış ve bu araştırmaları sonucu <i>Nobel Ödülü'ne</i> layık görülmüş <b>Leh-Fransız fizikçi ve kimyager</b>.</p> <p> <i>Uranyumla</i> yaptığı deneyler sonucu radyoaktiviteyi keşfetti. <i>Toryumun</i> radyoaktif özelliğini buldu ve <b>radyum</b> elementini ayrıştırdı. <b>1903 Nobel Fizik ödülü</b>, <b>1911 Nobel Kimya ödülü</b> sahibi ve <b>radyoloji biliminin kurucusudur</b>. Çalışmalarıyla bir çığır açan Curie, <i>Nobel Ödülü'nü alan ilk kadın</i>, bu ödülü <b>iki kere alan ilk bilim insanı olmuştur</b>.</p>"
+	},
+
+	{
+		"Adi": "Mary Anning",
+		"Alani": "Fosil Bilim",
+		"DogumTarihi": "21 Mayıs 1799",
+		"OlumTarihi": "9 Mart 1847",
+		"KapakFotoUrl": "https://raw.githubusercontent.com/deryacayiroglu/h5190004deryacayiroglu/main/MaryAnningKapak.png",
+		"LogoUrl": "https://raw.githubusercontent.com/deryacayiroglu/h5190004deryacayiroglu/main/MaryAnningLogo.jpg",
+		"Aciklama": "<p>Britanyalı fosil koleksiyoncusu, fosil taciri ve <b>paleontolojist</b>.</p> <p>1809 ve 1811 yılları arasında henüz 10-12 yaşlarındayken <i>dinozor</i> kalıntıları keşfetmiş ve bu kalıntıları bir bütün olarak gün yüzüne çıkarmıştır. Bu fosil bir T-Rex fosilidir. Bu keşfi sayesinde <b>dünyanın ilk paleontolojisti</b> unvanını kazanmıştır. Mary Anning ayrıca toprağı kazan ilk kadındır. </p>"
+	},
+
+	{
+		"Adi": "Annie Jump Cannon",
+		"Alani": "Gökbilim",
+		"DogumTarihi": "11 Aralık 1863",
+		"OlumTarihi": "13 Nisan 1941",
+		"KapakFotoUrl": "https://raw.githubusercontent.com/deryacayiroglu/h5190004deryacayiroglu/main/AnnieJumpCannonKapak.jpg",
+		"LogoUrl": "https://raw.githubusercontent.com/deryacayiroglu/h5190004deryacayiroglu/main/AnnieJumpCannonLogo.jpg",
+		"Aciklama": "<p> Amerikalı gökbilimci. Günümüzde kullanılan <i>yıldız sınıflandırmasının temelini</i> oluşturan çalışmaları gerçekleştirmiştir.</p> <p>Annie Jump Cannon en az 300 değişken yıldız keşfeden, Delaware doğumlu astronomdu. Bunlar zamanla parlaklıklarını veya büyüklüklerini değiştiren yıldızlardır. Bu keşifler, Cannon’u yıldız sınıflandırmasının gelişiminin hayati bir parçası haline getirdi. Ayrıca beş yeni yıldız ve bir çift yıldız keşfetti ve spektral tipi, parlaklığı ve dağılımı arasındaki ilişkiyi göstermek için dörtte bir milyondan fazla yıldız üzerinde analiz yaptı</p>"
+	},
+
+	{
+		"Adi": "Rosalind Franklin",
+		"Alani": "Biyofizik",
+		"DogumTarihi": "25 Temmuz 1920",
+		"OlumTarihi": "16 Nisan 1958",
+		"KapakFotoUrl": "https://raw.githubusercontent.com/deryacayiroglu/h5190004deryacayiroglu/main/RosalindFranklinKapak.jpg",
+		"LogoUrl": "https://raw.githubusercontent.com/deryacayiroglu/h5190004deryacayiroglu/main/RosalindFranklinLogo.jpg",
+		"Aciklama": "<p> DNA, RNA, virüs, kömür ve grafitin yapılarının anlaşılmasında büyük katkılarda bulunan İngiliz <b>biyofizikçi, kimyager ve kristallografçısıdır</b>. Kömür ve virüslerle ilgili eserleri hayatı boyunca takdir edilmesine rağmen, DNA yapısının keşfine yaptığı katkılar büyük oranda ölümünden sonra fark edildi.</p> <p>En çok Watson ve Crick'in DNA'nın yapısını keşfetmelerinden önce yaptığı X-ışını kırınımı çalışmalarıyla ve öne sürdüğü hipotezlerle tanınmıştır. Daha sonra ise tütün mozaik virüsü ve polio virüsler için yaptığı araştırmalarla dikkat çekmiştir. 1958'de zatürre ve takiben karsinomatozis ve yumurtalık kanserinden hayatını kaybetmiştir.</p> <p>1962 yılında Watson, Crick ve Wilkins DNA çalışmalarından dolayı Nobel Ödülü alırlarken Franklin'in adı bile anılmadı. Buna, kimi çevreler ölmüş kişilerin ödüle aday gösterilemeyeceği nedenini gösterdiler, kimileriyse Franklin'in hakkının yenildiğini söylediler. Her ne olursa olsun bugün bilim çevreleri, DNA çalışmaları üzerinde Rosalind Franklin'in önemli katkıları olduğunu ve öncü çalışmalar yaptığını kabul ediyor.</p>"
+	},
+
+	{
+		"Adi": "Grace Hopper",
+		"Alani": "Bilgisayar Bilimi",
+		"DogumTarihi": "9 Aralık 1906",
+		"OlumTarihi": "1 Ocak 1992",
+		"KapakFotoUrl": "https://raw.githubusercontent.com/deryacayiroglu/h5190004deryacayiroglu/main/GraceHopperKapak.jpg",
+		"LogoUrl": "https://raw.githubusercontent.com/deryacayiroglu/h5190004deryacayiroglu/main/GraceHopperLogo.jpg",
+		"Aciklama": "<p>Tümamiral <b>Grace Murray Hopper</b> ,Amerikalı bilgisayar bilimcisi ve ABD donanmasında rütbeli asker. Harvard Mark I bilgisayarının ilk programcılarından biri olan Hopper, bilgisayar programlama dilleri için <b>ilk derleyiciyi</b> geliştirdi.<i> İlk modern programlama dillerinden</i> biri olan <b>COBOL'un</b> da geliştiricilerindendi.Bilgisayar dilinde <i>debugging</i> diye bilinen programı hatalardan temizleme konseptinin de ilk kullanıcılarındandı.</p>"
+	}
+
+]
